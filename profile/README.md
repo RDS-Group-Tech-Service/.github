@@ -1,6 +1,6 @@
 <!-- 🔥 Premium Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=220&amp;section=header&amp;text=RDS%20Group&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=One-Stop%20Technology%20%26%20Enterprise%20Solutions&amp;descSize=18&amp;descAlignY=70">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=RDS%20Group&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ⚡ Typing Animation -->
