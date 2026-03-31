@@ -64,9 +64,9 @@ To become a global leader in digital transformation by delivering innovative, re
 
 ## 🤝 Let's Work Together
 
-📧 Email: your@email.com  
-🌐 Website: https://yourwebsite.com  
-📱 LinkedIn: https://linkedin.com/company/yourcompany  
+📧 Email: info@rdsgrouporg.com  
+🌐 Website: https://rdsgrouporg.com  
+📱 LinkedIn: https://linkedin.com/company/rdsgroup  
 
 ---
 
