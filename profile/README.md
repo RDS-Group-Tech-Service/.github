@@ -1,51 +1,51 @@
-<!-- 🔥 Top Animated Banner -->
+<!-- 🔥 Premium Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=RDS%20Group&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Complete%20Technology%20%26%20Digital%20Solutions&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=RDS%20Group&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=One-Stop%20Technology%20%26%20Enterprise%20Solutions&descSize=18&descAlignY=70" />
 </p>
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=🚀+All-in-One+Tech+Partner;💻+Software+%7C+Web+%7C+Mobile+Development;🌐+Digital+%26+Cloud+Solutions;🔐+Security+%7C+Support+%7C+Automation;📈+Scaling+Businesses+Worldwide" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=🚀+All-in-One+Tech+Partner;💼+ERP+%7C+CRM+%7C+SRM+%7C+HMS+Solutions;💻+Web+%7C+Mobile+%7C+Software+Development;🌐+Digital+Transformation+%26+Cloud;🔐+Security+%7C+Support+%7C+Automation" />
 </p>
 
 ---
 
 ## 🌐 About Us
 
-🚀 **RDS Group** is a **complete technology and digital solutions company** delivering end-to-end services across all domains of IT.
+🚀 **RDS Group** is a **complete technology, software, and digital solutions company** delivering end-to-end services across all domains of IT and business systems.
 
-From **idea → development → deployment → scaling → support**,  
-we handle everything your business needs in the digital world.
+From **startup solutions to enterprise-grade platforms**,  
+we build, integrate, and manage everything — from **development to deployment to long-term support**.
 
 ---
 
-## 💼 What We Do (Everything in Tech)
+## 🧠 Enterprise Systems & Software Solutions
 
 <div align="center">
 
-| 💻 Development | 🌐 Digital | ⚙️ Advanced Tech |
-|--------------|-----------|----------------|
-| Custom Software | Digital Marketing | Cloud Computing |
-| Web Applications | SEO Optimization | DevOps |
-| Mobile Apps (Android/iOS/Flutter) | Branding & Design | AI & Automation |
-| SaaS Platforms | Social Media Growth | System Integration |
-| Enterprise Solutions | Content Strategy | Microservices |
+| 🏢 Business Systems | 🏥 Industry Solutions | ⚙️ Management Platforms |
+|-------------------|---------------------|------------------------|
+| ERP (Enterprise Resource Planning) | HMS (Hospital Management System) | CRM (Customer Relationship Management) |
+| SRM (Supplier Relationship Management) | LMS (Learning Management System) | HRMS (Human Resource Management System) |
+| Inventory Management System | School/College Management | CMS (Content Management System) |
+| Accounting & Billing Software | Hotel & Hospitality Systems | DMS (Document Management System) |
+| POS (Point of Sale Systems) | Healthcare & Clinic Software | Project Management Systems |
 
 </div>
 
 ---
 
-## 🧩 Full-Service Technology Stack
+## 💼 What We Do (Complete Tech Ecosystem)
 
-- 💻 **Software Development** (Custom, Enterprise, SaaS)  
-- 🌍 **Web Development** (Frontend, Backend, Full Stack)  
-- 📱 **Mobile App Development** (Android, iOS, Cross-platform)  
-- 🔗 **API Development & Integration**  
-- ☁️ **Cloud & DevOps Solutions**  
+- 💻 **Custom Software Development** (Enterprise, SaaS, Automation Tools)  
+- 🌍 **Web Development** (Full-stack, E-commerce, Web Apps)  
+- 📱 **Mobile App Development** (Android, iOS, Flutter)  
+- 🔗 **API Development & System Integration**  
+- ☁️ **Cloud Solutions & DevOps**  
 - 🎨 **UI/UX & Creative Design**  
 - 📈 **Digital Marketing & SEO**  
 - 🔐 **Cybersecurity & Compliance**  
-- 🧪 **QA & Software Testing**  
+- 🧪 **Quality Assurance & Testing**  
 - 🛠 **Maintenance & Technical Support**  
 
 ---
@@ -53,7 +53,7 @@ we handle everything your business needs in the digital world.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,js,html,css,nodejs,dotnet,mongodb,mysql,aws,azure,figma,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,js,html,css,nodejs,dotnet,python,mongodb,mysql,aws,azure,figma,git" />
 </p>
 
 ---
@@ -69,8 +69,8 @@ we handle everything your business needs in the digital world.
 
 ## 🌍 Our Vision
 
-✨ To become a **global one-stop technology partner**  
-helping businesses innovate, scale, and succeed digitally.
+✨ To become a **global one-stop partner for all technology and enterprise solutions**,  
+empowering businesses with innovation, automation, and scalability.
 
 ---
 
@@ -94,25 +94,25 @@ helping businesses innovate, scale, and succeed digitally.
 
 ---
 
-## ⭐ Why Choose Us?
+## ⭐ Why Choose RDS Group?
 
-✔ One-stop solution for all tech needs  
+✔ Complete end-to-end technology partner  
+✔ Expertise in **ERP, CRM, SRM, HMS & enterprise systems**  
 ✔ Scalable & future-ready architecture  
-✔ Modern technologies & frameworks  
-✔ Dedicated support & maintenance  
-✔ Business-focused development approach  
+✔ Modern tech stack & agile development  
+✔ Dedicated support & long-term partnership  
 
 ---
 
 ## ❤️ Support
 
 <p align="center">
-  ⭐ Star our repositories | 🤝 Collaborate with us | 🚀 Grow together
+  ⭐ Star our repositories | 🤝 Collaborate | 🚀 Build the future together
 </p>
 
 ---
 
 <!-- 🔥 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
