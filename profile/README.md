@@ -87,7 +87,7 @@ we build, integrate, and manage everything — from **development to deployment 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdsravi&amp;show_icons=true&amp;theme=tokyonight" height="150">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rdsravi&amp;show_icons=true&amp;theme=tokyonight" height="150"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdsravi&amp;theme=tokyonight" height="150">
 </p>
 
